@@ -1,10 +1,10 @@
 {
   "name": "kz-task-hash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "author": "weixinchen",
   "dependencies": {
-    "MD5": "^2.2.1"
+    "md5": "^2.2.1"
   }
 }
